@@ -42,12 +42,14 @@ This project implements an AI-powered multi-agent system designed to process var
   5. Returns or logs the structured output.
 
 ### Screenshots
-1. Home Page
-   ![Screenshot](assets/Screenshot From 2025-05-29 16-49-59.png)
-2. Input text : Email
-   ![Screenshot](assets/Screenshot From 2025-05-29 16-50-52.png)
-3. Input text : Json
-   ![Screenshot](assets/Screenshot From 2025-05-29 16-51-24.png)
+- Home Page
+   ![Alt text](https://github.com/Pixeler5diti/Multi-Format-Intake-Agent-with-Intelligent-Routing-Context-Memory/blob/6efc618ed469600be2b2adf990e2f9e9e9f3ae45/assets/Screenshot%20From%202025-05-29%2016-49-59.png)
+
+- Input text : Email
+  ![Alt text](https://github.com/Pixeler5diti/Multi-Format-Intake-Agent-with-Intelligent-Routing-Context-Memory/blob/6efc618ed469600be2b2adf990e2f9e9e9f3ae45/assets/Screenshot%20From%202025-05-29%2016-50-52.png)
+   
+- Memory Store:
+  ![Alt text](https://github.com/Pixeler5diti/Multi-Format-Intake-Agent-with-Intelligent-Routing-Context-Memory/blob/6efc618ed469600be2b2adf990e2f9e9e9f3ae45/assets/Screenshot%20From%202025-05-29%2016-51-24.png)
 
 ## 📁 Folder Structure
 ```
