@@ -4,6 +4,8 @@ from fastapi.responses import HTMLResponse, JSONResponse
 from pydantic import BaseModel
 import uvicorn
 import os
+from dotenv import load_dotenv
+load_dotenv()
 import json
 from typing import Optional, Dict, Any
 import uuid
