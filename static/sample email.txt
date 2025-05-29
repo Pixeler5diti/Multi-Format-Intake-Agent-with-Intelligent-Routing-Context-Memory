@@ -1,0 +1,24 @@
+sample email;
+
+From: anita.sharma@alphaindustries.com  
+To: support@yourcompany.com  
+Subject: Request for Quotation - Office Supplies  
+Date: May 20, 2025
+
+Dear Team,
+
+We are looking to procure the following items for our Noida office:
+
+- 100 ergonomic office chairs  
+- 50 standing desks  
+- 10 whiteboards  
+
+Please send us a detailed quotation including delivery timelines and payment terms.
+
+This is a priority request, so we’d appreciate a response by the end of this week.
+
+Regards,  
+Anita Sharma  
+Procurement Manager  
+Alpha Industries
+

@@ -1,0 +1,33 @@
+sample json:
+{
+  "invoice_id": "INV-2025-1182",
+  "date": "2025-05-20",
+  "sender": {
+    "name": "Beta Logistics",
+    "email": "accounts@betalogs.com"
+  },
+  "recipient": {
+    "company": "YourCompany Pvt Ltd",
+    "email": "billing@yourcompany.com"
+  },
+  "items": [
+    {
+      "description": "Freight Services - North Zone",
+      "quantity": 1,
+      "unit_price": 12000,
+      "total": 12000
+    },
+    {
+      "description": "Packaging Material",
+      "quantity": 30,
+      "unit_price": 50,
+      "total": 1500
+    }
+  ],
+  "subtotal": 13500,
+  "tax": 675,
+  "total_due": 14175,
+  "due_date": "2025-06-01",
+  "notes": "Please make the payment before the due date to avoid late fees."
+}
+
