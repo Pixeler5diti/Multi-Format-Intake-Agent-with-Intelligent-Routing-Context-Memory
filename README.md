@@ -43,13 +43,13 @@ This project implements an AI-powered multi-agent system designed to process var
 
 ### Screenshots
 - Home Page
-   ![Alt text](https://github.com/Pixeler5diti/Multi-Format-Intake-Agent-with-Intelligent-Routing-Context-Memory/blob/6efc618ed469600be2b2adf990e2f9e9e9f3ae45/assets/Screenshot%20From%202025-05-29%2016-49-59.png)
+   ![Alt text](https://github.com/Pixeler5diti/Multi-Format-Intake-Agent-with-Intelligent-Routing-Context-Memory/blob/94b0c9518ee1e52028a782d644c62293aa11a78e/assets/1.png)
 
 - Input text : Email
-  ![Alt text](https://github.com/Pixeler5diti/Multi-Format-Intake-Agent-with-Intelligent-Routing-Context-Memory/blob/6efc618ed469600be2b2adf990e2f9e9e9f3ae45/assets/Screenshot%20From%202025-05-29%2016-50-52.png)
+  ![Alt text](https://github.com/Pixeler5diti/Multi-Format-Intake-Agent-with-Intelligent-Routing-Context-Memory/blob/94b0c9518ee1e52028a782d644c62293aa11a78e/assets/2.png)
    
 - Memory Store:
-  ![Alt text](https://github.com/Pixeler5diti/Multi-Format-Intake-Agent-with-Intelligent-Routing-Context-Memory/blob/6efc618ed469600be2b2adf990e2f9e9e9f3ae45/assets/Screenshot%20From%202025-05-29%2016-51-24.png)
+  ![Alt text](https://github.com/Pixeler5diti/Multi-Format-Intake-Agent-with-Intelligent-Routing-Context-Memory/blob/94b0c9518ee1e52028a782d644c62293aa11a78e/assets/3.png)
 
 ## 📁 Folder Structure
 ```
