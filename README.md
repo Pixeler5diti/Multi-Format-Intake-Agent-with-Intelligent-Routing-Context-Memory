@@ -82,3 +82,31 @@ multi-format-intake-agent/
    ```bash
    git clone https://github.com/Pixeler5diti/Multi-Format-Intake-Agent-with-Intelligent-Routing-Context-Memory.git
    cd Multi-Format-Intake-Agent-with-Intelligent-Routing-Context-Memory
+2. **Install requirements**:
+   ```
+   pip install -r requirements.txt
+   ```
+3. **Run the Application**:
+   ```
+   python main.py
+   ```
+4. **Upload a smaple input from the stactic folder or any custom input**
+
+### 🔁 End-to-End Example Flow
+
+- Input: Email file
+- Classifier → detects Email + RFQ intent
+- Routed to: Email Agent → extracts sender, request, urgency
+- Memory stores: Email metadata + extracted fields
+- If attachment is JSON → Routed to JSON Agent
+- Combined structured output is logged
+
+### Demo Video
+Coming soon!<3
+
+### 📄 License
+MIT
+
+### ✨ Author
+
+Made with ❤️ by Diti Vasisht
