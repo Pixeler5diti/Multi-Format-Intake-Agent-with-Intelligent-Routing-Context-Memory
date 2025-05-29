@@ -42,9 +42,9 @@ This project implements an AI-powered multi-agent system designed to process var
   5. Returns or logs the structured output.
 
 ## 📁 Folder Structure
-
-multi-format-intake-agent/
 ```
+multi-format-intake-agent/
+
 ├── agents/
 │ ├── classifier_agent.py
 │ ├── email_agent.py
