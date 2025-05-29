@@ -45,7 +45,7 @@ This project implements an AI-powered multi-agent system designed to process var
 - Home Page
    ![Alt text](https://github.com/Pixeler5diti/Multi-Format-Intake-Agent-with-Intelligent-Routing-Context-Memory/blob/94b0c9518ee1e52028a782d644c62293aa11a78e/assets/1.png)
 
-- Input text : Email
+- Input text : JSON
   ![Alt text](https://github.com/Pixeler5diti/Multi-Format-Intake-Agent-with-Intelligent-Routing-Context-Memory/blob/94b0c9518ee1e52028a782d644c62293aa11a78e/assets/2.png)
    
 - Memory Store:
