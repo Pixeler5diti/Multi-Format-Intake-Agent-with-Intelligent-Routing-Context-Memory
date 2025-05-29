@@ -41,6 +41,14 @@ This project implements an AI-powered multi-agent system designed to process var
   4. Updates shared memory.
   5. Returns or logs the structured output.
 
+### Screenshots
+1. Home Page
+   ![Screenshot](assets/Screenshot From 2025-05-29 16-49-59.png)
+2. Input text : Email
+   ![Screenshot](assets/Screenshot From 2025-05-29 16-50-52.png)
+3. Input text : Json
+   ![Screenshot](assets/Screenshot From 2025-05-29 16-51-24.png)
+
 ## 📁 Folder Structure
 ```
 multi-format-intake-agent/
