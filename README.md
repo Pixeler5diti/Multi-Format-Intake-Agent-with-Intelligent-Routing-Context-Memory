@@ -44,6 +44,7 @@ This project implements an AI-powered multi-agent system designed to process var
 ## 📁 Folder Structure
 
 multi-format-intake-agent/
+```
 ├── agents/
 │ ├── classifier_agent.py
 │ ├── email_agent.py
@@ -63,7 +64,7 @@ multi-format-intake-agent/
 ├── pyproject.toml
 ├── uv.lock
 └── README.md
-
+```
 
 ## 🛠️ Tech Stack
 
